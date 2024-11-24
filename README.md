@@ -4,4 +4,3 @@
 **
 **
 
-![Uploading image.png…]()
